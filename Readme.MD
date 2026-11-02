@@ -22,6 +22,6 @@
 ![](https://github-contributor-stats.vercel.app/api?username=aadil268&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://komarev.com/ghpvc/?username=aadil268&icon=0&color=1)](https://visitcount.itsvg.in)
+[![](https://komarev.com/ghpvc/?username=aadil268&icon=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
